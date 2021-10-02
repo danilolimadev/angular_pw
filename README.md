@@ -1,4 +1,4 @@
-# Angular PW
+# Angular Password Generator
 Projeto de estudo com base no curso The Modern Angular Bootcamp
 
 ## 🚀 Começando
